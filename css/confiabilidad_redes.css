@@ -1,0 +1,45 @@
+.custom-nav{
+    background-color: #B5D4FF;
+}
+
+#header img{
+    width: 60px;
+}
+
+
+#autores img{
+    margin: 10px;
+    border-radius: 50%;
+    max-width: 100%;
+    transform: scale(1);
+}
+
+#autores p{
+    text-align: left;
+    margin: 10px !important;
+}
+
+
+#prologo img{
+    max-width: 65%;
+}
+
+#prologo p{
+    text-align: left;
+    margin-right: 55px;
+    margin-left: 55px;
+    font-size: 15px;
+}
+
+#prologo h4{
+    text-align: left;
+    margin-right: 55px;
+    margin-left: 55px;
+}
+
+.banner{
+    background-color: #B5D4FF;
+    max-width: 65%;
+    border: 1px solid white;
+    height: 75px;
+}
